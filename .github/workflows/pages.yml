@@ -6,6 +6,7 @@ on:
         paths:
             - "docs/**"
             - "docs.config.ts"
+            - ".github/workflows/pages.yml"
     workflow_dispatch:
 
 permissions:
