@@ -1,5 +1,6 @@
 # Basic
 .DS_Store
-node_modules/
+
+# trickfire-docs
+.trickfire-docs/
 dist/
-.pnpm-store/
